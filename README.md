@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=gba3124)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **gba3124/gba3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
