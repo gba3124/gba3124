@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=gba3124&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=gba3124&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![gba3124's github stats](https://github-readme-stats.vercel.app/api?username=gba3124&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![gba3124's github stats](https://github-readme-stats.vercel.app/api?username=gba3124&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 <!--
 **gba3124/gba3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
