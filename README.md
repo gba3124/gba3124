@@ -1,18 +1,49 @@
-### Hi there 👋
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=gba3124&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
-![gba3124's github stats](https://github-readme-stats.vercel.app/api?username=gba3124&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<!--
-**gba3124/gba3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently looking for digital nomad experiences
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: SaaS Development, Mathematical Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about anything
+
+📫 How to reach me: search gba3124
+
+⚡ Fun fact: ?
+
+<p align="center">
+  &nbsp;
+</p>
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gba3124&theme=dark&layout=compact" />
+  </p>
+  <p align="center">
+    &nbsp;
+  </p>
+  <p align="center">
+    ⚡ Technologies I have experimented with ⚡
+  </p>
+  <p align="center">
+    &nbsp;
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arduino,bash,cs,css,discord,django,docker,express,fastapi,firebase,flask,gcp,git,githubactions,java,jenkins,latex,linux,matlab,mongodb,mysql,nextjs,nodejs,opencv,p5js,postgres,postman,py,pytorch,rabbitmq,react,spring,sqlite,sklearn,tailwind,tensorflow,ts,ubuntu,vercel" />
+    </a>
+  </p>
+</div>
+
+<p align="center">
+  &nbsp;
+</p>
+
+<p align="center">
+  <a href="https://abhigyantrips.dev/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gba3124&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gba3124&theme=dracula&hide_border=true" />
+  </a>
+</p>
+<div align="center">
+  ### Show some ❤️ by starring the repos!
+</div>
