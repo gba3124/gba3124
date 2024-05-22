@@ -7,15 +7,20 @@
 <div align="center">
   <P>
     Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
-
+  </P>
+  <p>
     🔭 I’m currently looking for digital nomad experiences
-    
+  </P>
+  <P>
     🌱 I’m currently learning: SaaS Development, Mathematical Modeling
-    
+  </P>
+  <P>
     💬 Ask me about anything
-    
+  </P>
+  <P>
     📫 How to reach me: search gba3124
-    
+  </P>
+  <P>
     ⚡ Fun fact: ?
   </P>
   <p>
