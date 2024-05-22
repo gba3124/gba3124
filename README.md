@@ -1,20 +1,23 @@
-Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
-🔭 I’m currently looking for digital nomad experiences
-
-🌱 I’m currently learning: SaaS Development, Mathematical Modeling
-
-💬 Ask me about anything
-
-📫 How to reach me: search gba3124
-
-⚡ Fun fact: ?
 
 <p align="center">
   &nbsp;
 </p>
 
 <div align="center">
+  <P>
+    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
+
+    🔭 I’m currently looking for digital nomad experiences
+    
+    🌱 I’m currently learning: SaaS Development, Mathematical Modeling
+    
+    💬 Ask me about anything
+    
+    📫 How to reach me: search gba3124
+    
+    ⚡ Fun fact: ?
+  </P>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gba3124&theme=dark&layout=compact" />
   </p>
