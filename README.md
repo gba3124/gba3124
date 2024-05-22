@@ -29,7 +29,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,bash,cs,css,discord,django,docker,express,fastapi,firebase,flask,gcp,git,githubactions,java,jenkins,latex,linux,matlab,mongodb,mysql,nextjs,nodejs,opencv,p5js,postgres,postman,py,pytorch,rabbitmq,react,spring,sqlite,sklearn,tailwind,tensorflow,ts,ubuntu,vercel" />
+      <img src="https://skillicons.dev/icons?i=arduino,cs,django,docker,express,fastapi,firebase,flask,gcp,githubactions,java,jenkins,matlab,mongodb,mysql,nextjs,nodejs,opencv,p5js,postgres,postman,py,pytorch,react,spring,sqlite,sklearn,tailwind,tensorflow,ubuntu" />
     </a>
   </p>
 </div>
