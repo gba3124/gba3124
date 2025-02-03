@@ -1,57 +1,94 @@
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,40:16213E,70:2C3E50,100:34495E&height=200&section=header&text=Welcome%20Here%20🌌&fontSize=70&animation=twinkling&desc=There's%20a%20reason%20you%20found%20me%20in%20this%20vast%20universe&descAlignY=75&fontColor=E0E0E0)
 
+<div style="margin: 40px 0">
 
-<p align="center">
-  &nbsp;
-</p>
+### `{ Owen }` 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=2000&color=7A28F7&random=false&width=435&lines=System+Architect+Design;Mensa+Member;AI/SW+Engineer;Person)
 
-<div align="center">
-  <P>
-    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
-  </P>
-  <p>
-    🔭 I’m currently looking for digital nomad experiences
-  </P>
-  <P>
-    🌱 I’m currently learning: SaaS Development, Mathematical Modeling
-  </P>
-  <P>
-    💬 Ask me about anything
-  </P>
-  <P>
-    📫 How to reach me: search gba3124
-  </P>
-  <P>
-    ⚡ Fun fact: ?
-  </P>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gba3124&theme=dark&layout=compact" />
-  </p>
-  <p align="center">
-    &nbsp;
-  </p>
-  <p align="center">
-    ⚡ Technologies I have experimented with ⚡
-  </p>
-  <p align="center">
-    &nbsp;
-  </p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,cs,django,docker,express,fastapi,firebase,flask,gcp,githubactions,java,jenkins,matlab,mongodb,mysql,nextjs,nodejs,opencv,p5js,postgres,postman,py,pytorch,react,spring,sqlite,sklearn,tailwind,tensorflow,ubuntu" />
-    </a>
-  </p>
+> Hi, I'm Owen from Taiwan.
+> 
+> After years of coding journey,  
+> I made a decision to embrace a gap year  
+> starting from late 2024.
+> 
+> Currently crafting my own SaaS solutions,  
+> turning ideas into tangible services,  
+> and exploring life's infinite possibilities.
+
+<div style="margin: 40px 0">
+
+### 💭 Philosophy
+
+<div style="padding: 20px; border-radius: 8px; background-color: #1a1a2e; color: #E0E0E0">
+
+> In an era where everyone chases titles and wealth,  
+> we're always busy planning for tomorrow,  
+> missing the precious moments of today.  
+>   
+> True happiness isn't found in final achievements,  
+> but in every surprise and growth along the way.  
+
+</div>
 </div>
 
-<p align="center">
-  &nbsp;
-</p>
+### 🎯 Field I Experenced
 
-<p align="center">
-  <a href="https://abhigyantrips.dev/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gba3124&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gba3124&theme=dracula&hide_border=true" />
-  </a>
-</p>
-<div align="center">
-  ### Show some ❤️ by starring the repos!
-</div>
+```mermaid
+mindmap
+  root((Technical<br>Journey))
+    Industrial Systems
+      Automation Control
+        PLC Programming
+        Sensor Integration
+        Motion Control
+      IoT
+        Data Acquisition
+        Real-time Monitoring
+    AI and Analytics
+      Computer Vision
+        OCR Development
+        CBIR Systems
+        Object Tracing
+        Image Segmentation
+      Machine Learning
+        Supervised Learning
+          Classification
+          Regression
+        Unsupervised Learning
+          Clustering
+          Dimension Reduction
+        Applications
+          Anomaly Detection
+          Pattern Recognition
+          Predictive Models
+    Software Systems
+      Backend Architecture
+        RESTful APIs
+        Microservices
+        Message Queues
+      Database Solutions
+        SQL/NoSQL
+        Time Series DB
+      Frontend Development
+        React/Next.js
+        WebSocket
+    DevOps and Infrastructure
+      Container Orchestration
+        Docker
+        Kubernetes
+      CI/CD Solutions
+        Jenkins
+        GitHub Actions
+    Mathematical Foundations
+      Optimization Theory
+        Linear Programming
+        Nonlinear Programming
+      Statistical Analysis
+        Regression Models
+        Time Series Analysis
+```
+
+</div> <div style="margin: 30px 0">
+📫 Connect me: gba3124@gmail.com
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:16213E,70:2C3E50,100:34495E&height=100&section=footer)
