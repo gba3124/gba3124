@@ -3,7 +3,7 @@
 <div style="margin: 40px 0">
 
 ### `{ Owen }` 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=2000&color=7A28F7&random=false&width=435&lines=System+Architect+Design;Mensa+Member;AI/SW+Engineer;Person)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=2000&color=7A28F7&random=false&width=435&lines=System+Architect+Design;Mensa+Member;AI/SW+Engineer;Human)
 
 > Hi, I'm Owen from Taiwan.
 > 
