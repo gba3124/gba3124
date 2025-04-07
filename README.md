@@ -5,15 +5,15 @@
 ### `{ Owen }` 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=2000&color=7A28F7&random=false&width=435&lines=System+Architect+Design;Mensa+Member;AI/SW+Engineer;Human)
 
-> Hi, I'm Owen from Taiwan.
-> 
+> Hi, I'm Owen from Taiwan.  
+>  
 > After years of coding journey,  
-> I made a decision to embrace a gap year  
-> starting from late 2024.
-> 
-> Currently crafting my own SaaS solutions,  
-> turning ideas into tangible services,  
-> and exploring life's infinite possibilities.
+> I made a bold decision to embrace a gap year,  
+> starting from late 2024.  
+>   
+> Since then, I've adopted a more fluid way of working and thinking —  
+> focusing on building my own solutions,  
+> and turning ideas into reality.  
 
 <div style="margin: 40px 0">
 
