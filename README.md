@@ -11,7 +11,7 @@
 > I made a bold decision to embrace a gap year,  
 > starting from late 2024.  
 >   
-> Since then, I've adopted a more fluid way of working and thinking —  
+> Since then, I've adopted a more fluid way of working and thinking,
 > focusing on building my own solutions,  
 > and turning ideas into reality.  
 
