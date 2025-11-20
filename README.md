@@ -89,6 +89,6 @@ mindmap
 ```
 
 </div> <div style="margin: 30px 0">
-📫 Connect me: gba3124@gmail.com
+📫 Connect me: wei-chien.hsiao.tw@member.mensa.org
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:16213E,70:2C3E50,100:34495E&height=100&section=footer)
